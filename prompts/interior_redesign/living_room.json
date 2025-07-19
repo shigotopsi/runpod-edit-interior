@@ -1,0 +1,122 @@
+{
+  "biophilic": {
+    "base_prompt": "An image of a living room with biophilic style furniture and decor. The room has a woven jute area rug, an olive green linen sofa, a live-edge wood coffee table, a light oak media console with potted plants, a rattan accent chair, a wooden floor lamp, a tall bookshelf with trailing plants, and a large framed print of a forest.",
+    "hires_prompt": "An image of a living room with biophilic style furniture and decor. The room has a woven jute area rug, an olive green linen sofa, a live-edge wood coffee table, a light oak media console with potted plants, a rattan accent chair, a wooden floor lamp, a tall bookshelf with trailing plants, and a large framed print of a forest."
+  },
+  "bohemian": {
+    "base_prompt": "An image of a living room with bohemian style furniture and decor. The room has a colorful Persian-style rug, a low-slung sofa covered in colorful pillows, a carved-wood coffee table, a vintage distressed wood media console, a papasan chair, a Moroccan-style metal lantern floor lamp, a large macrame wall hanging, and a leather Moroccan pouf.",
+    "hires_prompt": "An image of a living room with bohemian style furniture and decor. The room has a colorful Persian-style rug, a low-slung sofa covered in colorful pillows, a carved-wood coffee table, a vintage distressed wood media console, a papasan chair, a Moroccan-style metal lantern floor lamp, a large macrame wall hanging, and a leather Moroccan pouf."
+  },
+  "christmas": {
+    "base_prompt": "An image of a living room with Christmas style furniture and decor. The room has a plaid rug, a red velvet chesterfield sofa, a wooden coffee table with candles, a media console with a lit garland, a plaid wingback chair, a decorated Christmas tree, and a festive wreath.",
+    "hires_prompt": "An image of a living room with Christmas style furniture and decor. The room has a plaid rug, a red velvet chesterfield sofa, a wooden coffee table with candles, a media console with a lit garland, a plaid wingback chair, a decorated Christmas tree, and a festive wreath."
+  },
+  "coastal": {
+    "base_prompt": "An image of a living room with coastal style furniture and decor. The room has a blue-and-white striped rug, a white slipcovered sofa, a whitewashed coffee table, a louvered-door media console, a wicker armchair, a driftwood tripod floor lamp, a large beach painting, and a woven rope pouf.",
+    "hires_prompt": "An image of a living room with coastal style furniture and decor. The room has a blue-and-white striped rug, a white slipcovered sofa, a whitewashed coffee table, a louvered-door media console, a wicker armchair, a driftwood tripod floor lamp, a large beach painting, and a woven rope pouf."
+  },
+  "contemporary": {
+    "base_prompt": "An image of a living room with contemporary style furniture and decor. The room has a neutral abstract rug, a sleek gray sectional sofa, a glass and chrome coffee table, a floating media console, a bold blue sculptural accent chair, a nickel arc floor lamp, a large abstract art piece, and a textured pouf.",
+    "hires_prompt": "An image of a living room with contemporary style furniture and decor. The room has a neutral abstract rug, a sleek gray sectional sofa, a glass and chrome coffee table, a floating media console, a bold blue sculptural accent chair, a nickel arc floor lamp, a large abstract art piece, and a textured pouf."
+  },
+  "cottagecore": {
+    "base_prompt": "An image of a living room with cottagecore style furniture and decor. The room has a braided rag rug, a floral slipcovered sofa, a distressed white coffee table, a vintage hutch, a cozy armchair with a quilt, a vintage floor lamp, a side table with wildflowers, and framed botanical prints.",
+    "hires_prompt": "An image of a living room with cottagecore style furniture and decor. The room has a braided rag rug, a floral slipcovered sofa, a distressed white coffee table, a vintage hutch, a cozy armchair with a quilt, a vintage floor lamp, a side table with wildflowers, and framed botanical prints."
+  },
+  "cyberpunk": {
+    "base_prompt": "An image of a living room with cyberpunk style furniture and decor. The room features a dark circuit board rug, a modular sofa in technical fabric, a holographic display coffee table, a media console with neon LEDs, a futuristic carbon fiber chair, a neon glow floor lamp, and a digital cityscape art piece on the wall.",
+    "hires_prompt": "An image of a living room with cyberpunk style furniture and decor. The room features a dark circuit board rug, a modular sofa in technical fabric, a holographic display coffee table, a media console with neon LEDs, a futuristic carbon fiber chair, a neon glow floor lamp, and a digital cityscape art piece on the wall."
+  },
+  "easter": {
+    "base_prompt": "An image of a living room with Easter style furniture and decor. The room has a pastel area rug, a cream sofa with pastel pillows, a white coffee table with Easter eggs, a media console with tulips, a light wood accent chair, a decorative egg tree, and a pussy willow wreath.",
+    "hires_prompt": "An image of a living room with Easter style furniture and decor. The room has a pastel area rug, a cream sofa with pastel pillows, a white coffee table with Easter eggs, a media console with tulips, a light wood accent chair, a decorative egg tree, and a pussy willow wreath."
+  },
+  "eclectic": {
+    "base_prompt": "An image of a living room with eclectic style furniture and decor. The room has a colorful Kilim rug, a jewel-toned velvet Chesterfield sofa, an acrylic ghost coffee table, a Mid-century modern credenza, an industrial metal chair, a brass arc floor lamp, a gallery wall of art, and a faux fur pouf.",
+    "hires_prompt": "An image of a living room with eclectic style furniture and decor. The room has a colorful Kilim rug, a jewel-toned velvet Chesterfield sofa, an acrylic ghost coffee table, a Mid-century modern credenza, an industrial metal chair, a brass arc floor lamp, a gallery wall of art, and a faux fur pouf."
+  },
+  "farmhouse": {
+    "base_prompt": "An image of a living room with modern farmhouse style furniture and decor. The room has a jute rug, a deep-seated beige sofa, a chunky wood coffee table, a sliding barn door media console, a black spindle chair, a black metal floor lamp, an antique window frame on the wall, and a plaid upholstered ottoman.",
+    "hires_prompt": "An image of a living room with modern farmhouse style furniture and decor. The room has a jute rug, a deep-seated beige sofa, a chunky wood coffee table, a sliding barn door media console, a black spindle chair, a black metal floor lamp, an antique window frame on the wall, and a plaid upholstered ottoman."
+  },
+  "french_country": {
+    "base_prompt": "An image of a living room with French country style furniture and decor. The room has a faded floral Aubusson rug, a graceful sofa in toile fabric, a cabriole-leg coffee table, a whitewashed credenza, a Bergère chair, a wrought-iron floor lamp, and a large ornate gilded mirror.",
+    "hires_prompt": "An image of a living room with French country style furniture and decor. The room has a faded floral Aubusson rug, a graceful sofa in toile fabric, a cabriole-leg coffee table, a whitewashed credenza, a Bergère chair, a wrought-iron floor lamp, and a large ornate gilded mirror."
+  },
+  "gamer": {
+    "base_prompt": "An image of a living room with gamer style furniture and decor. The room has a dark geometric rug, a large L-shaped sofa, a modern coffee table, an entertainment center with RGB lighting, an ergonomic gaming chair, smart LED light panels on the wall, a shelving unit with collectibles, and a sleek floor lamp.",
+    "hires_prompt": "An image of a living room with gamer style furniture and decor. The room has a dark geometric rug, a large L-shaped sofa, a modern coffee table, an entertainment center with RGB lighting, an ergonomic gaming chair, smart LED light panels on the wall, a shelving unit with collectibles, and a sleek floor lamp."
+  },
+  "halloween": {
+    "base_prompt": "An image of a living room with Halloween style furniture and decor. The room has a dark ornate rug, a purple velvet sofa with skull pillows, a coffin-shaped coffee table, a gothic console table, a throne-like chair, a dim floor lamp, carved Jack-o'-lanterns, and paper bats on the wall.",
+    "hires_prompt": "An image of a living room with Halloween style furniture and decor. The room has a dark ornate rug, a purple velvet sofa with skull pillows, a coffin-shaped coffee table, a gothic console table, a throne-like chair, a dim floor lamp, carved Jack-o'-lanterns, and paper bats on the wall."
+  },
+  "industrial": {
+    "base_prompt": "An image of a living room with industrial style furniture and decor. The room has a distressed rug, a worn dark brown leather sofa, a reclaimed wood and iron coffee table, a raw metal and wood media console, a leather club chair, a pipe floor lamp with Edison bulbs, a pipe and plank bookshelf, and a large gritty abstract painting.",
+    "hires_prompt": "An image of a living room with industrial style furniture and decor. The room has a distressed rug, a worn dark brown leather sofa, a reclaimed wood and iron coffee table, a raw metal and wood media console, a leather club chair, a pipe floor lamp with Edison bulbs, a pipe and plank bookshelf, and a large gritty abstract painting."
+  },
+  "italian": {
+    "base_prompt": "An image of a living room with modern Italian style furniture. The room has a high-pile wool rug, a white leather designer sofa, a polished marble block coffee table, a high-gloss credenza, a sculptural black leather armchair, a dramatic arc floor lamp, and a large piece of Italian abstract art.",
+    "hires_prompt": "An image of a living room with modern Italian style furniture. The room has a high-pile wool rug, a white leather designer sofa, a polished marble block coffee table, a high-gloss credenza, a sculptural black leather armchair, a dramatic arc floor lamp, and a large piece of Italian abstract art."
+  },
+  "japandi": {
+    "base_prompt": "An image of a living room with Japandi style furniture and decor. The room features a neutral wool rug, a low-profile sofa with a light wood frame, a light oak coffee table, a media console with cane doors, a black wood and woven accent chair, a paper shade floor lamp, a large minimalist abstract art piece, and a cream textured pouf.",
+    "hires_prompt": "An image of a living room with Japandi style furniture and decor. The room features a neutral wool rug, a low-profile sofa with a light wood frame, a light oak coffee table, a media console with cane doors, a black wood and woven accent chair, a paper shade floor lamp, a large minimalist abstract art piece, and a cream textured pouf."
+  },
+  "japanese": {
+    "base_prompt": "An image of a living room with traditional Japanese style furniture. The room has tatami mats on the floor, zabuton floor cushions for seating, a low chabudai table, a tansu chest, an ikebana flower arrangement, a Byōbu folding screen, and a kakejiku scroll painting.",
+    "hires_prompt": "An image of a living room with traditional Japanese style furniture. The room has tatami mats on the floor, zabuton floor cushions for seating, a low chabudai table, a tansu chest, an ikebana flower arrangement, a Byōbu folding screen, and a kakejiku scroll painting."
+  },
+  "maximalist": {
+    "base_prompt": "An image of a living room with maximalist style furniture and decor. The room features a layered animal-print and oriental rug, a sapphire velvet curved sofa, a brass and glass coffee table, a lacquered Chinoiserie cabinet, a botanical print wingback chair, a golden palm tree floor lamp, a tall ornate bookshelf, and a dense gallery wall.",
+    "hires_prompt": "An image of a living room with maximalist style furniture and decor. The room features a layered animal-print and oriental rug, a sapphire velvet curved sofa, a brass and glass coffee table, a lacquered Chinoiserie cabinet, a botanical print wingback chair, a golden palm tree floor lamp, a tall ornate bookshelf, and a dense gallery wall."
+  },
+  "medieval": {
+    "base_prompt": "An image of a living room with medieval style furniture and decor. The room has a heraldic rug, a dark leather sofa, a wooden chest coffee table, a heavy sideboard, a throne-like chair, a wrought iron candelabra lamp, a suit of armor, and a large wall tapestry.",
+    "hires_prompt": "An image of a living room with medieval style furniture and decor. The room has a heraldic rug, a dark leather sofa, a wooden chest coffee table, a heavy sideboard, a throne-like chair, a wrought iron candelabra lamp, a suit of armor, and a large wall tapestry."
+  },
+  "midcentury_modern": {
+    "base_prompt": "An image of a living room with mid-century modern style furniture and decor. The room has a geometric pattern rug, a low-profile sofa with tapered legs, a walnut kidney-shaped coffee table, a low credenza, an Eames-style lounge chair, an arc floor lamp, and a starburst clock on the wall.",
+    "hires_prompt": "An image of a living room with mid-century modern style furniture and decor. The room has a geometric pattern rug, a low-profile sofa with tapered legs, a walnut kidney-shaped coffee table, a low credenza, an Eames-style lounge chair, an arc floor lamp, and a starburst clock on the wall."
+  },
+  "minimalist": {
+    "base_prompt": "An image of a sparse living room with minimalist style furniture and decor. The room contains a simple armless sofa, a concrete coffee table, a handle-less floating media console, a sleek metal frame accent chair, a slender floor lamp, and a single large piece of monochrome abstract art on the wall. The floor is bare.",
+    "hires_prompt": "An image of a sparse living room with minimalist style furniture and decor. The room contains a simple armless sofa, a concrete coffee table, a handle-less floating media console, a sleek metal frame accent chair, a slender floor lamp, and a single large piece of monochrome abstract art on the wall. The floor is bare."
+  },
+  "modern": {
+    "base_prompt": "An image of a living room with Modern style furniture. The room has a geometric rug, a Florence Knoll-style sofa, a Noguchi coffee table, a simple sideboard, a Barcelona chair, a functional metal floor lamp, and an abstract expressionist painting.",
+    "hires_prompt": "An image of a living room with Modern style furniture. The room has a geometric rug, a Florence Knoll-style sofa, a Noguchi coffee table, a simple sideboard, a Barcelona chair, a functional metal floor lamp, and an abstract expressionist painting."
+  },
+  "neoclassic": {
+    "base_prompt": "An image of a living room with Neoclassic style furniture and decor. The room has a rug with a Greek key border, a silk-upholstered sofa, a marble-topped coffee table, a symmetrical console table, a Klismos chair, a classical bust on a pedestal, and a large gilded mirror.",
+    "hires_prompt": "An image of a living room with Neoclassic style furniture and decor. The room has a rug with a Greek key border, a silk-upholstered sofa, a marble-topped coffee table, a symmetrical console table, a Klismos chair, a classical bust on a pedestal, and a large gilded mirror."
+  },
+  "rustic": {
+    "base_prompt": "An image of a living room with rustic style furniture and decor. The room has a cowhide rug, a worn brown leather sofa, a tree trunk coffee table, a reclaimed wood media console, a heavy wood armchair, a forged iron floor lamp, a plank bookshelf, and deer antlers on the wall.",
+    "hires_prompt": "An image of a living room with rustic style furniture and decor. The room has a cowhide rug, a worn brown leather sofa, a tree trunk coffee table, a reclaimed wood media console, a heavy wood armchair, a forged iron floor lamp, a plank bookshelf, and deer antlers on the wall."
+  },
+  "scandinavian": {
+    "base_prompt": "An image of a living room with Scandinavian style furniture and decor. The room has a geometric black and white rug, a light gray sofa with wooden legs, round nesting coffee tables, a light oak media console, a shearling accent chair, a black metal floor lamp, a ladder bookshelf, and a gray knitted pouf.",
+    "hires_prompt": "An image of a living room with Scandinavian style furniture and decor. The room has a geometric black and white rug, a light gray sofa with wooden legs, round nesting coffee tables, a light oak media console, a shearling accent chair, a black metal floor lamp, a ladder bookshelf, and a gray knitted pouf."
+  },
+  "ski_chalet": {
+    "base_prompt": "An image of a living room with ski chalet style furniture and decor. The room has a plush faux-fur rug, a deep brown leather sofa with blankets, a chunky wood coffee table, a rustic console table, a plaid wool armchair, a rustic iron floor lamp, antique skis on the wall, and a large knitted pouf.",
+    "hires_prompt": "An image of a living room with ski chalet style furniture and decor. The room has a plush faux-fur rug, a deep brown leather sofa with blankets, a chunky wood coffee table, a rustic console table, a plaid wool armchair, a rustic iron floor lamp, antique skis on the wall, and a large knitted pouf."
+  },
+  "vaporwave": {
+    "base_prompt": "An image of a living room with vaporwave style furniture and decor. The room features a neon grid rug, a white leather modular sofa, an iridescent acrylic coffee table, a glossy white media console, a Roman column side table, a potted palm tree, a glitchy sunset art piece, and a pink neon tube floor lamp.",
+    "hires_prompt": "An image of a living room with vaporwave style furniture and decor. The room features a neon grid rug, a white leather modular sofa, an iridescent acrylic coffee table, a glossy white media console, a Roman column side table, a potted palm tree, a glitchy sunset art piece, and a pink neon tube floor lamp."
+  },
+  "vintage": {
+    "base_prompt": "An image of a living room with 1970s vintage style furniture. The room has an orange shag rug, an avocado green corduroy sofa, a glass and chrome coffee table, a vintage stereo console, a rattan peacock chair, a multi-headed arc floor lamp, and a large macrame wall hanging.",
+    "hires_prompt": "An image of a living room with 1970s vintage style furniture. The room has an orange shag rug, an avocado green corduroy sofa, a glass and chrome coffee table, a vintage stereo console, a rattan peacock chair, a multi-headed arc floor lamp, and a large macrame wall hanging."
+  },
+  "vineyard": {
+    "base_prompt": "An image of a living room with vineyard style furniture and decor. The room has an earthy-toned rug, a tan leather sofa, a wine barrel coffee table, a dark wood sideboard, a wrought-iron accent chair, a forged-iron floor lamp, a large wine rack, and a painting of rolling hills.",
+    "hires_prompt": "An image of a living room with vineyard style furniture and decor. The room has an earthy-toned rug, a tan leather sofa, a wine barrel coffee table, a dark wood sideboard, a wrought-iron accent chair, a forged-iron floor lamp, a large wine rack, and a painting of rolling hills."
+  },
+  "zen": {
+    "base_prompt": "An image of a living room with zen style furniture and decor. The room has a tatami mat, a very low platform sofa, a black lacquered coffee table, a media console with shoji screen doors, a zabuton floor cushion, an Akari paper lantern floor lamp, and a calligraphic scroll painting.",
+    "hires_prompt": "An image of a living room with zen style furniture and decor. The room has a tatami mat, a very low platform sofa, a black lacquered coffee table, a media console with shoji screen doors, a zabuton floor cushion, an Akari paper lantern floor lamp, and a calligraphic scroll painting."
+  }
+}

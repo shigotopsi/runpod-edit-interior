@@ -1,0 +1,122 @@
+{
+  "biophilic": {
+    "base_prompt": "An image of a bedroom with biophilic style decor. The room has a jute rug, a bed with a live-edge headboard, two light oak nightstands, a light oak dresser, a rattan accent chair, a woven bench, a forest art print, two stone base table lamps, a light wood floor mirror, and a fiddle-leaf fig plant.",
+    "hires_prompt": "An image of a bedroom with biophilic style decor. The room has a jute rug, a bed with a live-edge headboard, two light oak nightstands, a light oak dresser, a rattan accent chair, a woven bench, a forest art print, two stone base table lamps, a light wood floor mirror, and a fiddle-leaf fig plant."
+  },
+  "bohemian": {
+    "base_prompt": "An image of a bedroom with bohemian style decor. The room has a Persian rug, a bed with a carved wood headboard, two mismatched nightstands, a distressed dresser, a papasan chair, a woven bench, a macrame tapestry, two Moroccan table lamps, a rattan floor mirror, and a pothos plant.",
+    "hires_prompt": "An image of a bedroom with bohemian style decor. The room has a Persian rug, a bed with a carved wood headboard, two mismatched nightstands, a distressed dresser, a papasan chair, a woven bench, a macrame tapestry, two Moroccan table lamps, a rattan floor mirror, and a pothos plant."
+  },
+  "christmas": {
+    "base_prompt": "An image of a bedroom with Christmas style decor. The room has a faux-fur rug, a bed with an upholstered headboard and plaid bedding, two dark wood nightstands, a tall dark wood dresser, a wingback chair, a wooden bench, a wreath, two table lamps, a mirror with garland, and a small Christmas tree.",
+    "hires_prompt": "An image of a bedroom with Christmas style decor. The room has a faux-fur rug, a bed with an upholstered headboard and plaid bedding, two dark wood nightstands, a tall dark wood dresser, a wingback chair, a wooden bench, a wreath, two table lamps, a mirror with garland, and a small Christmas tree."
+  },
+  "coastal": {
+    "base_prompt": "An image of a bedroom with coastal style decor. The room has a jute rug, a bed with a white-washed headboard, two white nightstands, a white dresser, a wicker armchair, a linen bench, a seascape painting, two glass table lamps, a driftwood mirror, and a palm plant.",
+    "hires_prompt": "An image of a bedroom with coastal style decor. The room has a jute rug, a bed with a white-washed headboard, two white nightstands, a white dresser, a wicker armchair, a linen bench, a seascape painting, two glass table lamps, a driftwood mirror, and a palm plant."
+  },
+  "contemporary": {
+    "base_prompt": "An image of a bedroom with contemporary style decor. The room has an abstract rug, a platform bed with a tufted headboard, two floating nightstands, a high-gloss dresser, a sculptural accent chair, a bench with chrome legs, a bold abstract painting, two minimalist table lamps, a metal-framed mirror, and a snake plant.",
+    "hires_prompt": "An image of a bedroom with contemporary style decor. The room has an abstract rug, a platform bed with a tufted headboard, two floating nightstands, a high-gloss dresser, a sculptural accent chair, a bench with chrome legs, a bold abstract painting, two minimalist table lamps, a metal-framed mirror, and a snake plant."
+  },
+  "cottagecore": {
+    "base_prompt": "An image of a bedroom with cottagecore style decor. The room has a braided rug, a wrought iron bed with a quilt, two mismatched nightstands, a distressed dresser, a floral armchair, a wooden bench, botanical prints, two vintage table lamps, an ornate mirror, and a pot of lavender.",
+    "hires_prompt": "An image of a bedroom with cottagecore style decor. The room has a braided rug, a wrought iron bed with a quilt, two mismatched nightstands, a distressed dresser, a floral armchair, a wooden bench, botanical prints, two vintage table lamps, an ornate mirror, and a pot of lavender."
+  },
+  "cyberpunk": {
+    "base_prompt": "An image of a bedroom with cyberpunk style decor. The room has a geometric rug, a floating bed with an LED headboard, two floating nightstands, a black dresser, an ergonomic chair, a black bench, a futuristic cityscape art piece, two colored glow lamps, a mirror with LED backlighting, and a faux plant.",
+    "hires_prompt": "An image of a bedroom with cyberpunk style decor. The room has a geometric rug, a floating bed with an LED headboard, two floating nightstands, a black dresser, an ergonomic chair, a black bench, a futuristic cityscape art piece, two colored glow lamps, a mirror with LED backlighting, and a faux plant."
+  },
+  "easter": {
+    "base_prompt": "An image of a bedroom with Easter style decor. The room has a pastel rug, a bed with a light upholstered headboard and gingham bedding, two white nightstands, a white dresser, a light accent chair, a white bench, a spring landscape art piece, two ceramic lamps, a white-framed mirror, and a vase of tulips.",
+    "hires_prompt": "An image of a bedroom with Easter style decor. The room has a pastel rug, a bed with a light upholstered headboard and gingham bedding, two white nightstands, a white dresser, a light accent chair, a white bench, a spring landscape art piece, two ceramic lamps, a white-framed mirror, and a vase of tulips."
+  },
+  "eclectic": {
+    "base_prompt": "An image of a bedroom with eclectic style decor. The room has an oriental rug, a velvet headboard bed, two non-matching nightstands, a mid-century dresser, a patterned chair, an animal print bench, a gallery wall of art, two sculptural lamps, an ornate mirror, and an exotic plant.",
+    "hires_prompt": "An image of a bedroom with eclectic style decor. The room has an oriental rug, a velvet headboard bed, two non-matching nightstands, a mid-century dresser, a patterned chair, an animal print bench, a gallery wall of art, two sculptural lamps, an ornate mirror, and an exotic plant."
+  },
+  "farmhouse": {
+    "base_prompt": "An image of a bedroom with farmhouse style decor. The room has a jute rug, a bed with a reclaimed wood headboard, two distressed white nightstands, a matching dresser, a neutral accent chair, a rustic bench, a sign or wreath, two lantern lamps, a barn wood mirror, and an olive tree.",
+    "hires_prompt": "An image of a bedroom with farmhouse style decor. The room has a jute rug, a bed with a reclaimed wood headboard, two distressed white nightstands, a matching dresser, a neutral accent chair, a rustic bench, a sign or wreath, two lantern lamps, a barn wood mirror, and an olive tree."
+  },
+  "french_country": {
+    "base_prompt": "An image of a bedroom with French country style decor. The room has a floral rug, a bed with a toile headboard, two nightstands with cabriole legs, a bombe dresser, a Bergère chair, a carved wood bench, an ornate mirror, two silk-shade lamps, a distressed mirror, and a vase of lavender.",
+    "hires_prompt": "An image of a bedroom with French country style decor. The room has a floral rug, a bed with a toile headboard, two nightstands with cabriole legs, a bombe dresser, a Bergère chair, a carved wood bench, an ornate mirror, two silk-shade lamps, a distressed mirror, and a vase of lavender."
+  },
+  "gamer": {
+    "base_prompt": "An image of a bedroom with gamer style decor. The room has a geometric rug, a bed with an RGB headboard, two black nightstands, a wide dresser, a gaming chair, a black bench, framed game art, two smart lamps, a black-framed mirror, and LED light strips.",
+    "hires_prompt": "An image of a bedroom with gamer style decor. The room has a geometric rug, a bed with an RGB headboard, two black nightstands, a wide dresser, a gaming chair, a black bench, framed game art, two smart lamps, a black-framed mirror, and LED light strips."
+  },
+  "halloween": {
+    "base_prompt": "An image of a bedroom with Halloween style decor. The room has a dark ornate rug, a wrought iron bed with velvet bedding, two black nightstands, a black dresser, a throne-like chair, a black bench, macabre art, two black-shade lamps, an ornate black mirror, and dried flowers.",
+    "hires_prompt": "An image of a bedroom with Halloween style decor. The room has a dark ornate rug, a wrought iron bed with velvet bedding, two black nightstands, a black dresser, a throne-like chair, a black bench, macabre art, two black-shade lamps, an ornate black mirror, and dried flowers."
+  },
+  "industrial": {
+    "base_prompt": "An image of a bedroom with industrial style decor. The room has a distressed rug, a bed with a pipe-and-wood headboard, two metal locker nightstands, a raw metal dresser, a leather chair, a metal and wood bench, a black-and-white photograph, two Edison bulb lamps, a metal-framed mirror, and a snake plant.",
+    "hires_prompt": "An image of a bedroom with industrial style decor. The room has a distressed rug, a bed with a pipe-and-wood headboard, two metal locker nightstands, a raw metal dresser, a leather chair, a metal and wood bench, a black-and-white photograph, two Edison bulb lamps, a metal-framed mirror, and a snake plant."
+  },
+  "italian": {
+    "base_prompt": "An image of a bedroom with modern Italian style decor. The room has a wool rug, a bed with a leather headboard, two high-gloss nightstands, a high-gloss dresser, a sculptural chair, a leather bench, an abstract painting, two designer lamps, a minimalist mirror, and an orchid.",
+    "hires_prompt": "An image of a bedroom with modern Italian style decor. The room has a wool rug, a bed with a leather headboard, two high-gloss nightstands, a high-gloss dresser, a sculptural chair, a leather bench, an abstract painting, two designer lamps, a minimalist mirror, and an orchid."
+  },
+  "japandi": {
+    "base_prompt": "An image of a bedroom with Japandi style decor. The room has a wool rug, a low platform bed with an oak headboard, two minimalist nightstands, an oak dresser, a black wood and woven chair, a wooden bench, a minimalist art piece, two ceramic and linen lamps, a thin black-framed mirror, and a bonsai tree.",
+    "hires_prompt": "An image of a bedroom with Japandi style decor. The room has a wool rug, a low platform bed with an oak headboard, two minimalist nightstands, an oak dresser, a black wood and woven chair, a wooden bench, a minimalist art piece, two ceramic and linen lamps, a thin black-framed mirror, and a bonsai tree."
+  },
+  "japanese": {
+    "base_prompt": "An image of a bedroom with Japanese style decor. The room has tatami mats, a low futon bed, two dark wood nightstands, a Tansu chest, a Zabuton floor cushion, a wooden bench, a scroll painting, two Andon paper lamps, a dark wood mirror, and an ikebana flower arrangement.",
+    "hires_prompt": "An image of a bedroom with Japanese style decor. The room has tatami mats, a low futon bed, two dark wood nightstands, a Tansu chest, a Zabuton floor cushion, a wooden bench, a scroll painting, two Andon paper lamps, a dark wood mirror, and an ikebana flower arrangement."
+  },
+  "maximalist": {
+    "base_prompt": "An image of a bedroom with maximalist style decor. The room has layered rugs, a four-poster canopy bed, two mismatched nightstands, a Chinoiserie dresser, a patterned chair, a velvet bench, a dense gallery wall, two extravagant lamps, an oversized gilded mirror, and a large palm plant.",
+    "hires_prompt": "An image of a bedroom with maximalist style decor. The room has layered rugs, a four-poster canopy bed, two mismatched nightstands, a Chinoiserie dresser, a patterned chair, a velvet bench, a dense gallery wall, two extravagant lamps, an oversized gilded mirror, and a large palm plant."
+  },
+  "medieval": {
+    "base_prompt": "An image of a bedroom with medieval style decor. The room has a heraldic rug, a four-poster bed, two chest-like nightstands, a heavy wooden dresser, a throne-like chair, a wooden chest, a large tapestry, two wrought-iron lamps, a dark wood mirror, and a metal goblet.",
+    "hires_prompt": "An image of a bedroom with medieval style decor. The room has a heraldic rug, a four-poster bed, two chest-like nightstands, a heavy wooden dresser, a throne-like chair, a wooden chest, a large tapestry, two wrought-iron lamps, a dark wood mirror, and a metal goblet."
+  },
+  "midcentury_modern": {
+    "base_prompt": "An image of a bedroom with mid-century modern style decor. The room has a geometric rug, a bed with a walnut headboard, two walnut nightstands, a walnut dresser, a Womb chair, a simple bench, a graphic art print, two ceramic lamps, a wood-framed mirror, and a snake plant in a bullet planter.",
+    "hires_prompt": "An image of a bedroom with mid-century modern style decor. The room has a geometric rug, a bed with a walnut headboard, two walnut nightstands, a walnut dresser, a Womb chair, a simple bench, a graphic art print, two ceramic lamps, a wood-framed mirror, and a snake plant in a bullet planter."
+  },
+  "minimalist": {
+    "base_prompt": "An image of a bedroom with minimalist style decor. The room has no rug, a low platform bed with no headboard, two white cube nightstands, a low handle-less dresser, no chair or bench, an empty wall above the bed, two tiny lamps, a frameless mirror, and a single stem in a vase.",
+    "hires_prompt": "An image of a bedroom with minimalist style decor. The room has no rug, a low platform bed with no headboard, two white cube nightstands, a low handle-less dresser, no chair or bench, an empty wall above the bed, two tiny lamps, a frameless mirror, and a single stem in a vase."
+  },
+  "modern": {
+    "base_prompt": "An image of a bedroom with Modern style decor. The room has a geometric rug, a bed with a wood and metal frame, two nightstands with clean lines, a simple dresser, a Barcelona chair, a leather and chrome bench, an abstract painting, two metal lamps, a metal-framed mirror, and an architectural plant.",
+    "hires_prompt": "An image of a bedroom with Modern style decor. The room has a geometric rug, a bed with a wood and metal frame, two nightstands with clean lines, a simple dresser, a Barcelona chair, a leather and chrome bench, an abstract painting, two metal lamps, a metal-framed mirror, and an architectural plant."
+  },
+  "neoclassic": {
+    "base_prompt": "An image of a bedroom with Neoclassic style decor. The room has a Greek key rug, a bed with a symmetrical headboard, two nightstands with fluted legs, an elegant dresser, a Klismos chair, a bench with saber legs, a classical art piece, two urn-shaped lamps, a gilded mirror, and a myrtle plant.",
+    "hires_prompt": "An image of a bedroom with Neoclassic style decor. The room has a Greek key rug, a bed with a symmetrical headboard, two nightstands with fluted legs, an elegant dresser, a Klismos chair, a bench with saber legs, a classical art piece, two urn-shaped lamps, a gilded mirror, and a myrtle plant."
+  },
+  "rustic": {
+    "base_prompt": "An image of a bedroom with rustic style decor. The room has a cowhide rug, a bed with a barn door headboard, two rough-hewn wood nightstands, a solid wood dresser, a leather armchair, a log bench, a mountain landscape painting, two antler lamps, a heavy wood mirror, and a fern.",
+    "hires_prompt": "An image of a bedroom with rustic style decor. The room has a cowhide rug, a bed with a barn door headboard, two rough-hewn wood nightstands, a solid wood dresser, a leather armchair, a log bench, a mountain landscape painting, two antler lamps, a heavy wood mirror, and a fern."
+  },
+  "scandinavian": {
+    "base_prompt": "An image of a bedroom with Scandinavian style decor. The room has a geometric rug, a bed with a gray headboard, two light wood nightstands, a white dresser, a shearling chair, a light wood bench, a gallery wall of prints, two minimalist lamps, a light wood mirror, and a green plant.",
+    "hires_prompt": "An image of a bedroom with Scandinavian style decor. The room has a geometric rug, a bed with a gray headboard, two light wood nightstands, a white dresser, a shearling chair, a light wood bench, a gallery wall of prints, two minimalist lamps, a light wood mirror, and a green plant."
+  },
+  "ski_chalet": {
+    "base_prompt": "An image of a bedroom with ski chalet style decor. The room has a faux-fur rug, a log-frame bed with plaid bedding, two chunky wood nightstands, a rustic dresser, a leather armchair, a log bench, antique snowshoes on the wall, two iron lamps, a heavy wood mirror, and a potted pine tree.",
+    "hires_prompt": "An image of a bedroom with ski chalet style decor. The room has a faux-fur rug, a log-frame bed with plaid bedding, two chunky wood nightstands, a rustic dresser, a leather armchair, a log bench, antique snowshoes on the wall, two iron lamps, a heavy wood mirror, and a potted pine tree."
+  },
+  "vaporwave": {
+    "base_prompt": "An image of a bedroom with vaporwave style decor. The room has a neon grid rug, a bed with an iridescent headboard, two glossy white nightstands, a glossy white dresser, an inflatable chair, a pastel bench, glitchy sunset art, two glowing geometric lamps, a neon-backlit mirror, and a palm tree.",
+    "hires_prompt": "An image of a bedroom with vaporwave style decor. The room has a neon grid rug, a bed with an iridescent headboard, two glossy white nightstands, a glossy white dresser, an inflatable chair, a pastel bench, glitchy sunset art, two glowing geometric lamps, a neon-backlit mirror, and a palm tree."
+  },
+  "vintage": {
+    "base_prompt": "An image of a bedroom with 1970s vintage style decor. The room has a shag rug, a bed with a rattan headboard, two rounded nightstands, a wood dresser, a corduroy chair, a vinyl bench, a macrame wall hanging, two ceramic lamps, a dark wood mirror, and a spider plant in a hanger.",
+    "hires_prompt": "An image of a bedroom with 1970s vintage style decor. The room has a shag rug, a bed with a rattan headboard, two rounded nightstands, a wood dresser, a corduroy chair, a vinyl bench, a macrame wall hanging, two ceramic lamps, a dark wood mirror, and a spider plant in a hanger."
+  },
+  "vineyard": {
+    "base_prompt": "An image of a bedroom with vineyard style decor. The room has an earthy-toned rug, a bed with a wrought iron headboard, two dark wood nightstands, a rustic dresser, a leather armchair, a wine barrel bench, a painting of Tuscan hills, two wine jug lamps, a dark metal mirror, and a grapevine plant.",
+    "hires_prompt": "An image of a bedroom with vineyard style decor. The room has an earthy-toned rug, a bed with a wrought iron headboard, two dark wood nightstands, a rustic dresser, a leather armchair, a wine barrel bench, a painting of Tuscan hills, two wine jug lamps, a dark metal mirror, and a grapevine plant."
+  },
+  "zen": {
+    "base_prompt": "An image of a bedroom with zen style decor. The room has a sisal rug, a low platform bed with no headboard, two low nightstands, a low dresser, a Zabuton floor cushion, no bench, a calligraphic scroll painting, two paper shade lamps, a dark wood mirror, and a bonsai tree.",
+    "hires_prompt": "An image of a bedroom with zen style decor. The room has a sisal rug, a low platform bed with no headboard, two low nightstands, a low dresser, a Zabuton floor cushion, no bench, a calligraphic scroll painting, two paper shade lamps, a dark wood mirror, and a bonsai tree."
+  }
+}

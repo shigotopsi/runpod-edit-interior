@@ -1,0 +1,122 @@
+{
+  "biophilic": {
+    "base_prompt": "An image of a bathroom with biophilic style decor. The room has a light oak vanity with a stone sink, a round wood-frame mirror, a toilet, a shower with a pebble floor, a bamboo bath mat, natural fiber wall sconces, green towels on a ladder rack, light wood floating shelves, and trailing plants.",
+    "hires_prompt": "An image of a bathroom with biophilic style decor. The room has a light oak vanity with a stone sink, a round wood-frame mirror, a toilet, a shower with a pebble floor, a bamboo bath mat, natural fiber wall sconces, green towels on a ladder rack, light wood floating shelves, and trailing plants."
+  },
+  "bohemian": {
+    "base_prompt": "An image of a bathroom with bohemian style decor. The room has a repurposed dresser vanity with a ceramic sink, a rattan mirror, a toilet, a shower with a patterned curtain, a Persian rug bath mat, beaded wall sconces, colorful towels, rustic floating shelves, and potted plants.",
+    "hires_prompt": "An image of a bathroom with bohemian style decor. The room has a repurposed dresser vanity with a ceramic sink, a rattan mirror, a toilet, a shower with a patterned curtain, a Persian rug bath mat, beaded wall sconces, colorful towels, rustic floating shelves, and potted plants."
+  },
+  "christmas": {
+    "base_prompt": "An image of a bathroom with Christmas style decor. The room has a white vanity, a mirror with a pine garland, a toilet, a festive shower curtain, a red bath mat, classic wall sconces, red and white towels, floating shelves, and a themed soap dispenser and small pine tree.",
+    "hires_prompt": "An image of a bathroom with Christmas style decor. The room has a white vanity, a mirror with a pine garland, a toilet, a festive shower curtain, a red bath mat, classic wall sconces, red and white towels, floating shelves, and a themed soap dispenser and small pine tree."
+  },
+  "coastal": {
+    "base_prompt": "An image of a bathroom with coastal style decor. The room has a whitewashed vanity, a rope-framed mirror, a toilet, a walk-in shower with blue tile, a striped bath mat, nautical wall sconces, white towels, white floating shelves, and a jar of seashells.",
+    "hires_prompt": "An image of a bathroom with coastal style decor. The room has a whitewashed vanity, a rope-framed mirror, a toilet, a walk-in shower with blue tile, a striped bath mat, nautical wall sconces, white towels, white floating shelves, and a jar of seashells."
+  },
+  "contemporary": {
+    "base_prompt": "An image of a bathroom with contemporary style decor. The room has a floating gray vanity, a backlit mirror, a wall-mounted toilet, a walk-in shower with large tiles, a solid-colored bath mat, chrome wall sconces, gray towels, high-gloss floating shelves, and an orchid.",
+    "hires_prompt": "An image of a bathroom with contemporary style decor. The room has a floating gray vanity, a backlit mirror, a wall-mounted toilet, a walk-in shower with large tiles, a solid-colored bath mat, chrome wall sconces, gray towels, high-gloss floating shelves, and an orchid."
+  },
+  "cottagecore": {
+    "base_prompt": "An image of a bathroom with cottagecore style decor. The room has a distressed cabinet vanity, an ornate gilded mirror, a classic toilet, a clawfoot tub with a floral curtain, a braided rug bath mat, fabric shade wall sconces, embroidered towels, painted shelves, and a pitcher of wildflowers.",
+    "hires_prompt": "An image of a bathroom with cottagecore style decor. The room has a distressed cabinet vanity, an ornate gilded mirror, a classic toilet, a clawfoot tub with a floral curtain, a braided rug bath mat, fabric shade wall sconces, embroidered towels, painted shelves, and a pitcher of wildflowers."
+  },
+  "cyberpunk": {
+    "base_prompt": "An image of a bathroom with cyberpunk style decor. The room has a matte black vanity, a mirror with LED backlighting, a black toilet, a shower with iridescent tiles, a grid pattern bath mat, neon glow sconces, dark gray towels, acrylic floating shelves, and a futuristic soap dispenser.",
+    "hires_prompt": "An image of a bathroom with cyberpunk style decor. The room has a matte black vanity, a mirror with LED backlighting, a black toilet, a shower with iridescent tiles, a grid pattern bath mat, neon glow sconces, dark gray towels, acrylic floating shelves, and a futuristic soap dispenser."
+  },
+  "easter": {
+    "base_prompt": "An image of a bathroom with Easter style decor. The room has a white vanity, a simple mirror, a toilet, a shower, a pastel bath mat, modern wall sconces, pastel towels, white floating shelves, and a vase of daffodils.",
+    "hires_prompt": "An image of a bathroom with Easter style decor. The room has a white vanity, a simple mirror, a toilet, a shower, a pastel bath mat, modern wall sconces, pastel towels, white floating shelves, and a vase of daffodils."
+  },
+  "eclectic": {
+    "base_prompt": "An image of a bathroom with eclectic style decor. The room has a painted vanity, a rococo mirror, a toilet, a shower with colorful tiles, an animal print bath mat, mismatched wall sconces, bold-colored towels, glass shelves, and a quirky decorative object.",
+    "hires_prompt": "An image of a bathroom with eclectic style decor. The room has a painted vanity, a rococo mirror, a toilet, a shower with colorful tiles, an animal print bath mat, mismatched wall sconces, bold-colored towels, glass shelves, and a quirky decorative object."
+  },
+  "farmhouse": {
+    "base_prompt": "An image of a bathroom with farmhouse style decor. The room has a rustic wood vanity, a black-framed mirror, a toilet, a subway tile shower, a striped bath mat, gooseneck wall sconces, towels on a ladder rack, reclaimed wood shelves, and a wire basket.",
+    "hires_prompt": "An image of a bathroom with farmhouse style decor. The room has a rustic wood vanity, a black-framed mirror, a toilet, a subway tile shower, a striped bath mat, gooseneck wall sconces, towels on a ladder rack, reclaimed wood shelves, and a wire basket."
+  },
+  "french_country": {
+    "base_prompt": "An image of a bathroom with French country style decor. The room has a furniture-style vanity with a marble top, an ornate gilded mirror, a classic toilet, a clawfoot tub, a plush bath mat, candelabra sconces, monogrammed towels, glass shelves, and a silver tray.",
+    "hires_prompt": "An image of a bathroom with French country style decor. The room has a furniture-style vanity with a marble top, an ornate gilded mirror, a classic toilet, a clawfoot tub, a plush bath mat, candelabra sconces, monogrammed towels, glass shelves, and a silver tray."
+  },
+  "gamer": {
+    "base_prompt": "An image of a bathroom with gamer style decor. The room has a vanity with RGB lighting, a smart mirror, a black toilet, a shower with an LED head, a logo bath mat, futuristic wall sconces, black towels, shelves with collectibles, and a controller-shaped soap dispenser.",
+    "hires_prompt": "An image of a bathroom with gamer style decor. The room has a vanity with RGB lighting, a smart mirror, a black toilet, a shower with an LED head, a logo bath mat, futuristic wall sconces, black towels, shelves with collectibles, and a controller-shaped soap dispenser."
+  },
+  "halloween": {
+    "base_prompt": "An image of a bathroom with Halloween style decor. The room has a black vanity, a gothic mirror, a black toilet, a spiderweb shower curtain, a purple bath mat, torch-like wall sconces, black and orange towels, black floating shelves, and a skull soap dispenser.",
+    "hires_prompt": "An image of a bathroom with Halloween style decor. The room has a black vanity, a gothic mirror, a black toilet, a spiderweb shower curtain, a purple bath mat, torch-like wall sconces, black and orange towels, black floating shelves, and a skull soap dispenser."
+  },
+  "industrial": {
+    "base_prompt": "An image of a bathroom with industrial style decor. The room has a pipe and wood vanity with a concrete top, a round metal mirror, a toilet, a concrete shower, a gray bath mat, Edison bulb sconces, a pipe towel rack, pipe and wood shelves, and a metal soap dispenser.",
+    "hires_prompt": "An image of a bathroom with industrial style decor. The room has a pipe and wood vanity with a concrete top, a round metal mirror, a toilet, a concrete shower, a gray bath mat, Edison bulb sconces, a pipe towel rack, pipe and wood shelves, and a metal soap dispenser."
+  },
+  "italian": {
+    "base_prompt": "An image of a bathroom with modern Italian style decor. The room has a floating lacquer vanity with a marble sink, a frameless mirror, a wall-mounted toilet, a marble slab shower, a luxury bath mat, designer chrome sconces, plush white towels, glass shelves, and a designer soap dispenser.",
+    "hires_prompt": "An image of a bathroom with modern Italian style decor. The room has a floating lacquer vanity with a marble sink, a frameless mirror, a wall-mounted toilet, a marble slab shower, a luxury bath mat, designer chrome sconces, plush white towels, glass shelves, and a designer soap dispenser."
+  },
+  "japandi": {
+    "base_prompt": "An image of a bathroom with Japandi style decor. The room has a light oak vanity, a rounded-corner mirror, a toilet, a shower with stacked tiles, a diatomaceous earth mat, matte black sconces, linen towels, oak floating shelves, and a vase with a dry branch.",
+    "hires_prompt": "An image of a bathroom with Japandi style decor. The room has a light oak vanity, a rounded-corner mirror, a toilet, a shower with stacked tiles, a diatomaceous earth mat, matte black sconces, linen towels, oak floating shelves, and a vase with a dry branch."
+  },
+  "japanese": {
+    "base_prompt": "An image of a bathroom with Japanese style decor. The room has a dark wood vanity, a wood-framed mirror, a toilet, a deep wooden soaking tub (Ofuro), a hinoki wood mat, paper shade sconces, white cotton towels, dark wood shelves, and a ceramic soap dish.",
+    "hires_prompt": "An image of a bathroom with Japanese style decor. The room has a dark wood vanity, a wood-framed mirror, a toilet, a deep wooden soaking tub (Ofuro), a hinoki wood mat, paper shade sconces, white cotton towels, dark wood shelves, and a ceramic soap dish."
+  },
+  "maximalist": {
+    "base_prompt": "An image of a bathroom with maximalist style decor. The room has a colored lacquer vanity, a gilded mirror, a colored toilet, a shower with patterned tile, an animal-print mat, crystal sconces, patterned towels, ornate shelves, and perfume bottles.",
+    "hires_prompt": "An image of a bathroom with maximalist style decor. The room has a colored lacquer vanity, a gilded mirror, a colored toilet, a shower with patterned tile, an animal-print mat, crystal sconces, patterned towels, ornate shelves, and perfume bottles."
+  },
+  "medieval": {
+    "base_prompt": "An image of a bathroom with medieval style decor. The room has a heavy wood vanity with a stone sink, a carved wood mirror, a toilet, a slate tile shower, a dark bath mat, torch-style sconces, dark towels on iron rings, a heavy wood shelf, and a pewter soap dish.",
+    "hires_prompt": "An image of a bathroom with medieval style decor. The room has a heavy wood vanity with a stone sink, a carved wood mirror, a toilet, a slate tile shower, a dark bath mat, torch-style sconces, dark towels on iron rings, a heavy wood shelf, and a pewter soap dish."
+  },
+  "midcentury_modern": {
+    "base_prompt": "An image of a bathroom with mid-century modern style decor. The room has a walnut vanity, a simple mirror, a toilet, a shower with a geometric curtain, a geometric bath mat, globe sconces, brightly colored towels, walnut shelves, and a plant in a bullet planter.",
+    "hires_prompt": "An image of a bathroom with mid-century modern style decor. The room has a walnut vanity, a simple mirror, a toilet, a shower with a geometric curtain, a geometric bath mat, globe sconces, brightly colored towels, walnut shelves, and a plant in a bullet planter."
+  },
+  "minimalist": {
+    "base_prompt": "An image of a bathroom with minimalist style decor. The room has a concrete floating vanity, a frameless mirror, a wall-mounted toilet, a curbless walk-in shower, a gray bath mat, recessed lighting instead of sconces, a single white towel on a hook, no shelves, and a label-free soap dispenser.",
+    "hires_prompt": "An image of a bathroom with minimalist style decor. The room has a concrete floating vanity, a frameless mirror, a wall-mounted toilet, a curbless walk-in shower, a gray bath mat, recessed lighting instead of sconces, a single white towel on a hook, no shelves, and a label-free soap dispenser."
+  },
+  "modern": {
+    "base_prompt": "An image of a bathroom with Modern style decor. The room has a simple wood vanity, a plain rectangular mirror, a toilet, a shower/tub combo, a solid-colored bath mat, chrome wall sconces, solid-colored towels, glass shelves, and an elegant soap dispenser.",
+    "hires_prompt": "An image of a bathroom with Modern style decor. The room has a simple wood vanity, a plain rectangular mirror, a toilet, a shower/tub combo, a solid-colored bath mat, chrome wall sconces, solid-colored towels, glass shelves, and an elegant soap dispenser."
+  },
+  "neoclassic": {
+    "base_prompt": "An image of a bathroom with Neoclassic style decor. The room has a vanity with fluted details and a marble top, a gilded mirror with a Greek key pattern, a classic toilet, a marble shower, a bordered bath mat, classical sconces, monogrammed towels, ornate shelves, and a classical bust.",
+    "hires_prompt": "An image of a bathroom with Neoclassic style decor. The room has a vanity with fluted details and a marble top, a gilded mirror with a Greek key pattern, a classic toilet, a marble shower, a bordered bath mat, classical sconces, monogrammed towels, ornate shelves, and a classical bust."
+  },
+  "rustic": {
+    "base_prompt": "An image of a bathroom with rustic style decor. The room has a reclaimed wood vanity with a copper sink, a heavy wood-framed mirror, a toilet, a slate tile shower, a jute bath mat, lantern sconces, earth-toned towels on iron hooks, reclaimed wood shelves, and handmade soap.",
+    "hires_prompt": "An image of a bathroom with rustic style decor. The room has a reclaimed wood vanity with a copper sink, a heavy wood-framed mirror, a toilet, a slate tile shower, a jute bath mat, lantern sconces, earth-toned towels on iron hooks, reclaimed wood shelves, and handmade soap."
+  },
+  "scandinavian": {
+    "base_prompt": "An image of a bathroom with Scandinavian style decor. The room has a light wood vanity, a round mirror, a toilet, a subway tile shower, a geometric bath mat, minimalist sconces, towels on a wooden ladder, light wood shelves, and a potted plant.",
+    "hires_prompt": "An image of a bathroom with Scandinavian style decor. The room has a light wood vanity, a round mirror, a toilet, a subway tile shower, a geometric bath mat, minimalist sconces, towels on a wooden ladder, light wood shelves, and a potted plant."
+  },
+  "ski_chalet": {
+    "base_prompt": "An image of a bathroom with ski chalet style decor. The room has a knotty pine vanity with a stone top, a chunky wood mirror, a toilet, a stone tile shower, a faux-fur bath mat, antler-themed sconces, plush towels, heavy wood shelves, and pinecone-shaped soap.",
+    "hires_prompt": "An image of a bathroom with ski chalet style decor. The room has a knotty pine vanity with a stone top, a chunky wood mirror, a toilet, a stone tile shower, a faux-fur bath mat, antler-themed sconces, plush towels, heavy wood shelves, and pinecone-shaped soap."
+  },
+  "vaporwave": {
+    "base_prompt": "An image of a bathroom with vaporwave style decor. The room has a pastel vanity, a neon-backlit mirror, a toilet, a shower with pastel grid tiles, a retro bath mat, geometric sconces, pastel towels, acrylic shelves, and a small Roman bust.",
+    "hires_prompt": "An image of a bathroom with vaporwave style decor. The room has a pastel vanity, a neon-backlit mirror, a toilet, a shower with pastel grid tiles, a retro bath mat, geometric sconces, pastel towels, acrylic shelves, and a small Roman bust."
+  },
+  "vintage": {
+    "base_prompt": "An image of a bathroom with 1970s vintage style decor. The room has an avocado green vanity, a medicine cabinet mirror, a colored toilet, a shower with a patterned curtain, a shag bath mat, globe wall sconces, patterned towels, wood-look shelves, and a vintage soap dispenser.",
+    "hires_prompt": "An image of a bathroom with 1970s vintage style decor. The room has an avocado green vanity, a medicine cabinet mirror, a colored toilet, a shower with a patterned curtain, a shag bath mat, globe wall sconces, patterned towels, wood-look shelves, and a vintage soap dispenser."
+  },
+  "vineyard": {
+    "base_prompt": "An image of a bathroom with vineyard style decor. The room has a wine barrel vanity with a copper sink, a wrought-iron mirror, a toilet, a travertine tile shower, a burgundy bath mat, grapevine sconces, earth-toned towels, dark wood shelves, and wine-themed bath oils.",
+    "hires_prompt": "An image of a bathroom with vineyard style decor. The room has a wine barrel vanity with a copper sink, a wrought-iron mirror, a toilet, a travertine tile shower, a burgundy bath mat, grapevine sconces, earth-toned towels, dark wood shelves, and wine-themed bath oils."
+  },
+  "zen": {
+    "base_prompt": "An image of a bathroom with zen style decor. The room has a bamboo vanity with a river stone sink, a frameless mirror, a toilet, a shower with a pebble floor, a bamboo mat, minimalist sconces, neutral towels, bamboo shelves, and a single orchid.",
+    "hires_prompt": "An image of a bathroom with zen style decor. The room has a bamboo vanity with a river stone sink, a frameless mirror, a toilet, a shower with a pebble floor, a bamboo mat, minimalist sconces, neutral towels, bamboo shelves, and a single orchid."
+  }
+}

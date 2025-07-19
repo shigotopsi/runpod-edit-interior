@@ -1,0 +1,122 @@
+{
+  "biophilic": {
+    "base_prompt": "An image of a kitchen with biophilic style decor. The room has light oak cabinets, light quartz countertops, a matching oak island, a stainless steel stove, a panel-ready refrigerator, an undermount sink, woven rattan bar stools, terracotta pendant lights, a green Zellige tile backsplash, and a herb garden on the counter.",
+    "hires_prompt": "An image of a kitchen with biophilic style decor. The room has light oak cabinets, light quartz countertops, a matching oak island, a stainless steel stove, a panel-ready refrigerator, an undermount sink, woven rattan bar stools, terracotta pendant lights, a green Zellige tile backsplash, and a herb garden on the counter."
+  },
+  "bohemian": {
+    "base_prompt": "An image of a kitchen with bohemian style decor. The room has distressed wood cabinets with open shelving, butcher block countertops, a colorful island, a colorful stove, a vintage refrigerator, a white apron-front sink, mismatched bar stools, macrame pendant lights, a Moroccan tile backsplash, and potted plants.",
+    "hires_prompt": "An image of a kitchen with bohemian style decor. The room has distressed wood cabinets with open shelving, butcher block countertops, a colorful island, a colorful stove, a vintage refrigerator, a white apron-front sink, mismatched bar stools, macrame pendant lights, a Moroccan tile backsplash, and potted plants."
+  },
+  "christmas": {
+    "base_prompt": "An image of a kitchen with Christmas style decor. The room has white shaker cabinets, butcher block countertops, a red island, a stainless steel stove and refrigerator, a farmhouse sink, bar stools with red cushions, lantern pendant lights with wreaths, a white subway tile backsplash, and a small Christmas tree on the counter.",
+    "hires_prompt": "An image of a kitchen with Christmas style decor. The room has white shaker cabinets, butcher block countertops, a red island, a stainless steel stove and refrigerator, a farmhouse sink, bar stools with red cushions, lantern pendant lights with wreaths, a white subway tile backsplash, and a small Christmas tree on the counter."
+  },
+  "coastal": {
+    "base_prompt": "An image of a kitchen with coastal style decor. The room has light blue shaker cabinets, white quartz countertops, a shiplap island, a white stove and refrigerator, a farmhouse sink, rattan bar stools, glass globe pendant lights, a blue glass tile backsplash, and a bowl of lemons.",
+    "hires_prompt": "An image of a kitchen with coastal style decor. The room has light blue shaker cabinets, white quartz countertops, a shiplap island, a white stove and refrigerator, a farmhouse sink, rattan bar stools, glass globe pendant lights, a blue glass tile backsplash, and a bowl of lemons."
+  },
+  "contemporary": {
+    "base_prompt": "An image of a kitchen with contemporary style decor. The room has high-gloss gray handle-less cabinets, white quartz countertops, a waterfall island, a high-end stove, a panel-ready refrigerator, an undermount sink, sculptural chrome bar stools, geometric pendant lights, a quartz slab backsplash, and a single orchid.",
+    "hires_prompt": "An image of a kitchen with contemporary style decor. The room has high-gloss gray handle-less cabinets, white quartz countertops, a waterfall island, a high-end stove, a panel-ready refrigerator, an undermount sink, sculptural chrome bar stools, geometric pendant lights, a quartz slab backsplash, and a single orchid."
+  },
+  "cottagecore": {
+    "base_prompt": "An image of a kitchen with cottagecore style decor. The room has sage green beadboard cabinets, butcher block countertops, a furniture-style island, a cream retro stove and refrigerator, a ceramic apron-front sink, painted bar stools, enamel pendant lights, a beadboard backsplash, and a pitcher of wildflowers.",
+    "hires_prompt": "An image of a kitchen with cottagecore style decor. The room has sage green beadboard cabinets, butcher block countertops, a furniture-style island, a cream retro stove and refrigerator, a ceramic apron-front sink, painted bar stools, enamel pendant lights, a beadboard backsplash, and a pitcher of wildflowers."
+  },
+  "cyberpunk": {
+    "base_prompt": "An image of a kitchen with cyberpunk style decor. The room has matte black cabinets, stainless steel countertops, a black island with RGB lighting, a black stove and refrigerator, an integrated steel sink, acrylic bar stools, neon-glow pendant lights, an iridescent tile backsplash, and a tablet on the counter.",
+    "hires_prompt": "An image of a kitchen with cyberpunk style decor. The room has matte black cabinets, stainless steel countertops, a black island with RGB lighting, a black stove and refrigerator, an integrated steel sink, acrylic bar stools, neon-glow pendant lights, an iridescent tile backsplash, and a tablet on the counter."
+  },
+  "easter": {
+    "base_prompt": "An image of a kitchen with Easter style decor. The room has pastel mint green cabinets, butcher block countertops, a matching island, a white stove and refrigerator, a ceramic sink, white wooden bar stools, glass pendant lights, a white subway tile backsplash, and a bowl of decorated Easter eggs.",
+    "hires_prompt": "An image of a kitchen with Easter style decor. The room has pastel mint green cabinets, butcher block countertops, a matching island, a white stove and refrigerator, a ceramic sink, white wooden bar stools, glass pendant lights, a white subway tile backsplash, and a bowl of decorated Easter eggs."
+  },
+  "eclectic": {
+    "base_prompt": "An image of a kitchen with eclectic style decor. The room has blue lower cabinets, terrazzo countertops, a yellow island, a statement stove, a vintage refrigerator, a copper sink, mismatched bar stools, a crystal chandelier, a graphic tile backsplash, and colorful cookware.",
+    "hires_prompt": "An image of a kitchen with eclectic style decor. The room has blue lower cabinets, terrazzo countertops, a yellow island, a statement stove, a vintage refrigerator, a copper sink, mismatched bar stools, a crystal chandelier, a graphic tile backsplash, and colorful cookware."
+  },
+  "farmhouse": {
+    "base_prompt": "An image of a kitchen with modern farmhouse style decor. The room has white shaker cabinets, soapstone countertops, a black island with X-brace detail, a professional stove and refrigerator, a white farmhouse sink, spindle-back stools, barn-style pendant lights, a subway tile backsplash, and a rustic tiered tray.",
+    "hires_prompt": "An image of a kitchen with modern farmhouse style decor. The room has white shaker cabinets, soapstone countertops, a black island with X-brace detail, a professional stove and refrigerator, a white farmhouse sink, spindle-back stools, barn-style pendant lights, a subway tile backsplash, and a rustic tiered tray."
+  },
+  "french_country": {
+    "base_prompt": "An image of a kitchen with French country style decor. The room has creamy white ornate cabinets, warm marble countertops, a furniture-style island, an elegant stove, a paneled refrigerator, a ceramic sink, toile-upholstered bar stools, a wrought-iron chandelier, a travertine backsplash, and a copper pot rack.",
+    "hires_prompt": "An image of a kitchen with French country style decor. The room has creamy white ornate cabinets, warm marble countertops, a furniture-style island, an elegant stove, a paneled refrigerator, a ceramic sink, toile-upholstered bar stools, a wrought-iron chandelier, a travertine backsplash, and a copper pot rack."
+  },
+  "gamer": {
+    "base_prompt": "An image of a kitchen with gamer style decor. The room has dark gray cabinets, black quartz countertops, an island with RGB lighting, a black stove, a smart refrigerator, a black sink, gaming chair bar stools, smart pendant lights, a carbon fiber backsplash, and a coffee machine.",
+    "hires_prompt": "An image of a kitchen with gamer style decor. The room has dark gray cabinets, black quartz countertops, an island with RGB lighting, a black stove, a smart refrigerator, a black sink, gaming chair bar stools, smart pendant lights, a carbon fiber backsplash, and a coffee machine."
+  },
+  "halloween": {
+    "base_prompt": "An image of a kitchen with Halloween style decor. The room has matte black cabinets, black granite countertops, a black island, a black stove and refrigerator, a black sink, ornate bar stools with purple velvet, a candelabra pendant fixture, a black subway tile backsplash, and a silver candelabra.",
+    "hires_prompt": "An image of a kitchen with Halloween style decor. The room has matte black cabinets, black granite countertops, a black island, a black stove and refrigerator, a black sink, ornate bar stools with purple velvet, a candelabra pendant fixture, a black subway tile backsplash, and a silver candelabra."
+  },
+  "industrial": {
+    "base_prompt": "An image of a kitchen with industrial style decor. The room has stainless steel cabinets and pipe shelving, concrete countertops, a rolling stainless steel island, a professional stove and refrigerator, a commercial-style sink, metal bar stools, Edison bulb pendants, and an exposed brick backsplash.",
+    "hires_prompt": "An image of a kitchen with industrial style decor. The room has stainless steel cabinets and pipe shelving, concrete countertops, a rolling stainless steel island, a professional stove and refrigerator, a commercial-style sink, metal bar stools, Edison bulb pendants, and an exposed brick backsplash."
+  },
+  "italian": {
+    "base_prompt": "An image of a kitchen with modern Italian style decor. The room has high-gloss white cabinets, Calacatta Gold marble countertops, a marble waterfall island, a high-end stove, an integrated refrigerator, an integrated marble sink, Italian leather bar stools, a sculptural pendant light, and a full-height marble backsplash.",
+    "hires_prompt": "An image of a kitchen with modern Italian style decor. The room has high-gloss white cabinets, Calacatta Gold marble countertops, a marble waterfall island, a high-end stove, an integrated refrigerator, an integrated marble sink, Italian leather bar stools, a sculptural pendant light, and a full-height marble backsplash."
+  },
+  "japandi": {
+    "base_prompt": "An image of a kitchen with Japandi style decor. The room has light oak slatted cabinets, gray concrete countertops, a light oak island, a minimalist stove, a paneled refrigerator, a matte black faucet, wooden bar stools, ceramic pendant lights, a Kit-Kat tile backsplash, and wabi-sabi pottery.",
+    "hires_prompt": "An image of a kitchen with Japandi style decor. The room has light oak slatted cabinets, gray concrete countertops, a light oak island, a minimalist stove, a paneled refrigerator, a matte black faucet, wooden bar stools, ceramic pendant lights, a Kit-Kat tile backsplash, and wabi-sabi pottery."
+  },
+  "japanese": {
+    "base_prompt": "An image of a kitchen with traditional Japanese style decor. The room has dark hinoki wood cabinets, honed granite countertops, a dark wood island, a minimalist stove and refrigerator, an undermount sink, low wooden stools, paper lantern pendants, a stone tile backsplash, and a chef's knife on a block.",
+    "hires_prompt": "An image of a kitchen with traditional Japanese style decor. The room has dark hinoki wood cabinets, honed granite countertops, a dark wood island, a minimalist stove and refrigerator, an undermount sink, low wooden stools, paper lantern pendants, a stone tile backsplash, and a chef's knife on a block."
+  },
+  "maximalist": {
+    "base_prompt": "An image of a kitchen with maximalist style decor. The room has glossy green cabinets, bold marble countertops, a contrasting island, a statement stove, a colorful refrigerator, a brass sink, velvet bar stools, a crystal chandelier, and a patterned wallpaper backsplash.",
+    "hires_prompt": "An image of a kitchen with maximalist style decor. The room has glossy green cabinets, bold marble countertops, a contrasting island, a statement stove, a colorful refrigerator, a brass sink, velvet bar stools, a crystal chandelier, and a patterned wallpaper backsplash."
+  },
+  "medieval": {
+    "base_prompt": "An image of a kitchen with medieval style decor. The room has dark oak cabinets with iron hinges, slate countertops, a table-style island, an iron-look stove, a paneled refrigerator, a stone sink, carved wooden stools, a wagon-wheel chandelier, and a fieldstone backsplash.",
+    "hires_prompt": "An image of a kitchen with medieval style decor. The room has dark oak cabinets with iron hinges, slate countertops, a table-style island, an iron-look stove, a paneled refrigerator, a stone sink, carved wooden stools, a wagon-wheel chandelier, and a fieldstone backsplash."
+  },
+  "midcentury_modern": {
+    "base_prompt": "An image of a kitchen with mid-century modern style decor. The room has walnut cabinets, white quartz countertops, a walnut island, a turquoise retro stove and refrigerator, a stainless steel sink, molded plastic bar stools, sputnik pendant lights, a geometric tile backsplash, and enamelware bowls.",
+    "hires_prompt": "An image of a kitchen with mid-century modern style decor. The room has walnut cabinets, white quartz countertops, a walnut island, a turquoise retro stove and refrigerator, a stainless steel sink, molded plastic bar stools, sputnik pendant lights, a geometric tile backsplash, and enamelware bowls."
+  },
+  "minimalist": {
+    "base_prompt": "An image of a kitchen with minimalist style decor. The room has handle-less white cabinets, a thin white countertop, a monolithic white waterfall island, a flush integrated stove, an integrated refrigerator, an integrated sink, simple backless stools, recessed lighting, and a white slab backsplash. The countertops are empty.",
+    "hires_prompt": "An image of a kitchen with minimalist style decor. The room has handle-less white cabinets, a thin white countertop, a monolithic white waterfall island, a flush integrated stove, an integrated refrigerator, an integrated sink, simple backless stools, recessed lighting, and a white slab backsplash. The countertops are empty."
+  },
+  "modern": {
+    "base_prompt": "An image of a kitchen with Modern style decor. The room has flat-panel wood cabinets, granite countertops, a clean-lined island, a stainless steel stove and refrigerator, an undermount sink, leather and chrome stools, drum pendant lights, a glass tile backsplash, and a designer toaster.",
+    "hires_prompt": "An image of a kitchen with Modern style decor. The room has flat-panel wood cabinets, granite countertops, a clean-lined island, a stainless steel stove and refrigerator, an undermount sink, leather and chrome stools, drum pendant lights, a glass tile backsplash, and a designer toaster."
+  },
+  "neoclassic": {
+    "base_prompt": "An image of a kitchen with Neoclassic style decor. The room has a vanity with fluted details and a marble top, a gilded mirror with a Greek key pattern, a classic toilet, a marble shower, a bordered bath mat, classical sconces, monogrammed towels, ornate shelves, and a classical bust.",
+    "hires_prompt": "An image of a kitchen with Neoclassic style decor. The room has a vanity with fluted details and a marble top, a gilded mirror with a Greek key pattern, a classic toilet, a marble shower, a bordered bath mat, classical sconces, monogrammed towels, ornate shelves, and a classical bust."
+  },
+  "rustic": {
+    "base_prompt": "An image of a kitchen with rustic style decor. The room has knotty pine cabinets, rough slate countertops, a reclaimed wood island, a durable stove, a paneled refrigerator, a copper sink, log bar stools, antler pendant lights, a stacked stone backsplash, and a cast-iron skillet.",
+    "hires_prompt": "An image of a kitchen with rustic style decor. The room has knotty pine cabinets, rough slate countertops, a reclaimed wood island, a durable stove, a paneled refrigerator, a copper sink, log bar stools, antler pendant lights, a stacked stone backsplash, and a cast-iron skillet."
+  },
+  "scandinavian": {
+    "base_prompt": "An image of a kitchen with Scandinavian style decor. The room has white flat-panel cabinets, butcher block countertops, a functional island, a white stove and refrigerator, a ceramic sink, light wood bar stools, black pendant lights, a white subway tile backsplash, and wooden cutting boards.",
+    "hires_prompt": "An image of a kitchen with Scandinavian style decor. The room has white flat-panel cabinets, butcher block countertops, a functional island, a white stove and refrigerator, a ceramic sink, light wood bar stools, black pendant lights, a white subway tile backsplash, and wooden cutting boards."
+  },
+  "ski_chalet": {
+    "base_prompt": "An image of a kitchen with ski chalet style decor. The room has knotty alder cabinets, honed granite countertops, a butcher block island, a professional stove and refrigerator, a copper sink, plaid bar stools, a forged-iron pendant, a fieldstone backsplash, and a mug rack.",
+    "hires_prompt": "An image of a kitchen with ski chalet style decor. The room has knotty alder cabinets, honed granite countertops, a butcher block island, a professional stove and refrigerator, a copper sink, plaid bar stools, a forged-iron pendant, a fieldstone backsplash, and a mug rack."
+  },
+  "vaporwave": {
+    "base_prompt": "An image of a kitchen with vaporwave style decor. The room has glossy pink cabinets, terrazzo countertops, a curved island, a white stove and refrigerator, a white sink, iridescent acrylic stools, pink neon pendants, a pastel tile grid backsplash, and a potted palm plant.",
+    "hires_prompt": "An image of a kitchen with vaporwave style decor. The room has glossy pink cabinets, terrazzo countertops, a curved island, a white stove and refrigerator, a white sink, iridescent acrylic stools, pink neon pendants, a pastel tile grid backsplash, and a potted palm plant."
+  },
+  "vintage": {
+    "base_prompt": "An image of a kitchen with 1970s vintage style decor. The room has avocado green cabinets, colored laminate countertops, a laminate-topped island, a harvest gold stove and refrigerator, a colored cast-iron sink, vinyl diner stools, a plastic shade lamp, a patterned wallpaper backsplash, and a mushroom canister set.",
+    "hires_prompt": "An image of a kitchen with 1970s vintage style decor. The room has avocado green cabinets, colored laminate countertops, a laminate-topped island, a harvest gold stove and refrigerator, a colored cast-iron sink, vinyl diner stools, a plastic shade lamp, a patterned wallpaper backsplash, and a mushroom canister set."
+  },
+  "vineyard": {
+    "base_prompt": "An image of a kitchen with vineyard style decor. The room has stained wood cabinets, granite countertops, a wine barrel island, a professional stove and refrigerator, a copper sink, wrought-iron stools, a wrought-iron chandelier, a tumbled stone backsplash, and a wine rack.",
+    "hires_prompt": "An image of a kitchen with vineyard style decor. The room has stained wood cabinets, granite countertops, a wine barrel island, a professional stove and refrigerator, a copper sink, wrought-iron stools, a wrought-iron chandelier, a tumbled stone backsplash, and a wine rack."
+  },
+  "zen": {
+    "base_prompt": "An image of a kitchen with zen style decor. The room has bamboo cabinets, honed slate countertops, a waterfall island, an integrated stove and refrigerator, an undermount sink, backless wooden stools, paper lantern pendants, a river rock backsplash, and a bonsai tree.",
+    "hires_prompt": "An image of a kitchen with zen style decor. The room has bamboo cabinets, honed slate countertops, a waterfall island, an integrated stove and refrigerator, an undermount sink, backless wooden stools, paper lantern pendants, a river rock backsplash, and a bonsai tree."
+  }
+}
