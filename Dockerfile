@@ -26,6 +26,6 @@ RUN huggingface-cli download \
     --local-dir /comfyui/models/LLM/Florence-2-large-ft
 
 # Copy project files
-COPY prompts .
-COPY workflows .
+COPY prompts/ /prompts/
+COPY workflows/ /workflows/
 COPY handler.py .
