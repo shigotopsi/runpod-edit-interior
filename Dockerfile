@@ -20,13 +20,12 @@ RUN comfy model download --url https://huggingface.co/comfyanonymous/flux_text_e
 # VAE
 RUN comfy model download --url https://huggingface.co/Comfy-Org/Lumina_Image_2.0_Repackaged/resolve/main/split_files/vae/ae.safetensors --relative-path models/vae --filename ae.safetensors
 
-# LLM (Florence-2)
+# LLM
 RUN huggingface-cli download \
     microsoft/Florence-2-large-ft \
-    --local-dir /comfyui/models/LLM/Florence-2-large-ft \
-    --local-dir-use-symlinks False
+    --local-dir /comfyui/models/LLM/Florence-2-large-ft
 
-# Copy local files
-COPY prompts/ /prompts
-COPY workflows/ /workflows
-COPY handler.py handler.py
+# Copy project files
+COPY prompts .
+COPY workflows .
+COPY handler.py .

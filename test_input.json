@@ -1,0 +1,9 @@
+{
+  "id": "test-from-psi-123",
+  "input": {
+    "image_url": "https://www.solidbackgrounds.com/images/950x350/950x350-black-solid-color-background.jpg",
+    "room": "bedroom",
+    "style": "modern",
+    "workflow": "virtual_staging"
+  }
+}

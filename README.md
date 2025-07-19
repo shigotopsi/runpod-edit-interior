@@ -194,6 +194,6 @@ The API will return a JSON body containing the direct URL to the generated image
 
 ```json
 {
-  "image_url": "https://imagedelivery.net/Your-Cloudflare-Account-Hash/some-unique-image-id/public"
+  "image_url": "https://imagedelivery.net/{CLOUDFLARE_ACCOUNT_HASH}/{UNIQUE_ID}/public"
 }
 ```
